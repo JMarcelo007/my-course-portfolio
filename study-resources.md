@@ -1,4 +1,4 @@
- Study Resources
+# Study Resources
 
 ## Useful Websites
 - [GitHub Docs](https://docs.github.com/) - Official GitHub documentation
